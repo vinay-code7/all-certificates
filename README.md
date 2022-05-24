@@ -13,7 +13,7 @@ The certificates include these sites and courses:
   - [Problem Solving Basic Test](https://www.hackerrank.com/skills-verification/problem_solving_basic)
 
 - Udemy [Game Development Course](https://www.udemy.com/course/an-introduction-to-game-development-in-python/)
-- Python for Everbody (PY4E Course)[https://www.py4e.com/]
+- Python for Everbody [PY4E Course](https://www.py4e.com/)
 
 Note: 
 
