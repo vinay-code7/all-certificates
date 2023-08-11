@@ -22,3 +22,7 @@
 ## More Badges and Certifications: 
 - ### Udemy Course: [An introduction to game development in Python](https://www.udemy.com/course/an-introduction-to-game-development-in-python/) Nov. 2020
 - ### Collected all [badges](https://github.com/vinay-code7/all-certificates/tree/main/PY4E) at [PY4E](https://www.py4e.com/) by Dr. Chuck
+
+
+## PS
+If you spot any wrong link, or anything wrong, or any feedback, please let me know.
